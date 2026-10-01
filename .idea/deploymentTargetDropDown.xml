@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="AppListBaselineProfile">
+        <State />
+      </entry>
+      <entry key="AppSettingsScreenDialogsTest">
+        <State />
+      </entry>
+      <entry key="Generate Baseline Profile for app">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="app-geto-catalog">
+        <State />
+      </entry>
+      <entry key="appSettingDialog_stateRestoration()">
+        <State />
+      </entry>
+      <entry key="feature.shortcut">
+        <State />
+      </entry>
+      <entry key="shortcutDialog_stateRestoration()">
+        <State />
+      </entry>
+      <entry key="themeDialog_stateRestoration()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+What's new
+-Improve Performance
+-Added indicator for empty settings list

@@ -1,0 +1,6 @@
+{
+  "name": "Geto",
+  "description": "Per-app system settings manager and launcher shortcuts for Android",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
